@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "EX01.C": "cpp",
+        "stdio.h": "c",
+        "locale.h": "c"
+    }
+}
